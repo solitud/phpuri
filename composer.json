@@ -1,5 +1,5 @@
 {
-    "name": "xsirix/phpuri",
+    "name": "pguardiario/phpuri",
 	"type": "project",
 	"version": "1.0.1",
     "description": "A php library for converting relative urls to absolute.",
